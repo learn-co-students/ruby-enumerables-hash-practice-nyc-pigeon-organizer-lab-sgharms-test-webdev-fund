@@ -16,8 +16,7 @@ that newly structured data as a _new_ hash.
 
 You are helping a research group study pigeons in New York City. You are given
 the following collected data on New York City pigeons in the form of a hash:
-
-```ruby
+sf
 pigeon_data = {
   :color => {
     :purple => ["Theo", "Peter Jr.", "Lucky"],
